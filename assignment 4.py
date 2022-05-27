@@ -1,3 +1,7 @@
+#Assignment 4
+#name: Harshveer Singh
+#sid: 21107069
+#branch: mechanical
 print('Q1')
 num = int(input("Hey user , enter any student's marks: "))
 if num < 25:
