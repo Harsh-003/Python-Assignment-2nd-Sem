@@ -1,3 +1,9 @@
+# Assignment 6
+# Harshveer Singh
+# 21107069
+# Mechanical 
+
+
 print("Q1")
 def perfect_number(n):
     sum = 0
